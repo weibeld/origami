@@ -79,13 +79,6 @@ TODO
 
 ---
 
-## KANJIDIC2
-
-- Machine-readable dictionary of Japanese kanji maintained by the Electronic Dictionary Research and Development Group (EDRDG)
-- TODO: analyse the data format in detail
-
----
-
 ## KRADFILE/RADKFILE
 
 TODO
